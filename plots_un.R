@@ -19,5 +19,5 @@ un_member_states_2024 %>%
     ylab("Life Expectancy (years, 2022)") +
     labs(color = "Continent", shape = "Continent") +
     theme(legend.position = 'bottom') + #changed theme to adjust legend position
-    ggtitle("Life Expectancy by GDP Per Capita") #updated title
+    ggtitle("Analysis of UN Member Data") #updated title
 
