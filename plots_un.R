@@ -18,5 +18,6 @@ un_member_states_2024 %>%
     xlab("GDP Per Capita (log scale)") +
     ylab("Life Expectancy (years, 2022)") +
     labs(color = "Continent", shape = "Continent") +
-    theme_minimal() +
-    ggtitle("CHANGE THIS TITLE") #update this line
+    theme(legend.position = 'bottom') + #changed theme to adjust legend position
+    ggtitle("Life Expectancy by GDP Per Capita") #updated title
+
