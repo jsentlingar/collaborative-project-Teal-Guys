@@ -15,8 +15,8 @@ Kaizer will work on elevating the contract and README.
 - [x] Exercise 3: Daniel creates `TEAMWORK.md` and opens a pull request
 - [x] Exercise 4: Jacky creates `README.md` and opens a pull request
 - [x] Exercise 5: Kaizer updates `TEAMWORK.md` and `README.md`
-- [ ] Exercise 5: A teammate reviews and approves Kaizer's pull request
-- [ ] Everyone pulls the updated `main` into their own branch
+- [x] Exercise 5: A teammate reviews and approves Kaizer's pull request
+- [x] Everyone pulls the updated `main` into their own branch
 
 ## Timing
 
